@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.2",
+	"VersionName": "1.22",
 	"FriendlyName": "Game Audio Manager",
 	"Description": "Helps manage playing of audio, and audio levels.",
 	"Category": "Audio",
