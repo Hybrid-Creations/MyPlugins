@@ -1,0 +1,7 @@
+Z:\Projectz\GitHub\MyPlugins\PackagedPlugins\SGH\v4-22\SaveGameHelper\HostProject\Plugins\SaveGameHelper\Intermediate\Build\Win64\UE4Editor\Development\SaveGameHelper\Definitions.SaveGameHelper.h
+Z:\Projectz\GitHub\MyPlugins\PackagedPlugins\SGH\v4-22\SaveGameHelper\HostProject\Plugins\SaveGameHelper\Intermediate\Build\Win64\UE4Editor\Inc\SaveGameHelper\SaveGameHelper.init.gen.cpp
+Z:\Engines\Unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+Z:\Engines\Unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+Z:\Projectz\GitHub\MyPlugins\PackagedPlugins\SGH\v4-22\SaveGameHelper\HostProject\Plugins\SaveGameHelper\Intermediate\Build\Win64\UE4Editor\Inc\SaveGameHelper\SaveGameHelperBPLibrary.gen.cpp
+Z:\Projectz\GitHub\MyPlugins\PackagedPlugins\SGH\v4-22\SaveGameHelper\HostProject\Plugins\SaveGameHelper\Source\SaveGameHelper/Public/SaveGameHelperBPLibrary.h
+Z:\Projectz\GitHub\MyPlugins\PackagedPlugins\SGH\v4-22\SaveGameHelper\HostProject\Plugins\SaveGameHelper\Intermediate\Build\Win64\UE4Editor\Inc\SaveGameHelper\SaveGameHelperBPLibrary.generated.h

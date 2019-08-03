@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SaveGameHelper.cpp.obj": [
+			"SaveGameHelper.cpp.obj",
+			"SaveGameHelperBPLibrary.cpp.obj"
+		],
+		"Module.SaveGameHelper.gen.cpp.obj": [
+			"SaveGameHelper.init.gen.cpp.obj",
+			"SaveGameHelperBPLibrary.gen.cpp.obj"
+		]
+	}
+}

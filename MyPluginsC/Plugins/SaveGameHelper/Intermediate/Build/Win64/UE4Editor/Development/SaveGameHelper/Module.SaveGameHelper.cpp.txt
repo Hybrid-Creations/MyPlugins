@@ -1,0 +1,3 @@
+Z:\Projectz\GitHub\MyPlugins\MyPluginsC\Plugins\SaveGameHelper\Intermediate\Build\Win64\UE4Editor\Development\SaveGameHelper\Definitions.SaveGameHelper.h
+Z:\Projectz\GitHub\MyPlugins\MyPluginsC\Plugins\SaveGameHelper\Source\SaveGameHelper\Private\SaveGameHelper.cpp
+Z:\Projectz\GitHub\MyPlugins\MyPluginsC\Plugins\SaveGameHelper\Source\SaveGameHelper\Public\SaveGameHelper.h
